@@ -1,3 +1,13 @@
+def instruction()
+  you.add :issue if you.need :anything
+  you.request(:merge, @fork) if you.have :idea
+end
+
+
+=begin
+
 dynamical-require:
   require and instance a dyanmical class by name
   requested by @lacyc3
+
+=end
