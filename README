@@ -10,4 +10,8 @@ dynamical-require:
   require and instance a dyanmical class by name
   requested by @lacyc3
 
+config-with-yaml:
+  A skeleton class for store (and access/modify) the configuration with yaml
+  requested by XXX
+
 =end
