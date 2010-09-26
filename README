@@ -31,4 +31,9 @@ config-with-yaml:
   A skeleton class for store (and access/modify) the configuration with yaml
   requested by @cynosure
 
+bit_ly-expand:
+  This is a bit.ly expander example
+  (Don't forget replace the LOGIN and API_KEY, please...)
+  requested by @VaZuL
+
 =end
