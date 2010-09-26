@@ -6,12 +6,29 @@ end
 
 =begin
 
+namespace-scope:
+  Demonstration of namespaces
+  requested by @cynosure
+
+stupid-include-sample:
+  Demonstration of modules and include
+  requested by @cynosure
+
+m_array-n_random:
+  Simple (very simple) random select 'n' entry from an 'm' length array
+  requested by @Veejay
+
+fake-change-namespace:
+  Switch between Online and Offline status
+  (instances, modules and namespaces demonstration)
+  requested by @cynosure
+
 dynamical-require:
-  require and instance a dyanmical class by name
+  Require and instance a dyanmical class by name
   requested by @lacyc3
 
 config-with-yaml:
   A skeleton class for store (and access/modify) the configuration with yaml
-  requested by XXX
+  requested by @cynosure
 
 =end
