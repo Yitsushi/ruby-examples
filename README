@@ -36,4 +36,8 @@ bit_ly-expand:
   (Don't forget replace the LOGIN and API_KEY, please...)
   requested by @VaZuL
 
+class-self-validation:
+  attr_validated: attr_accessor + add a validation block
+  not requested (self idea of self-teaching for everyone)
+
 =end
