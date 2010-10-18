@@ -1,0 +1,14 @@
+namespace :test do
+  desc "Execute all UnitTest"
+  task :all => ["test:all:shoulda"] do
+    puts "All test executed"
+  end
+  namespace :all do
+    desc "Execute all Shoulda UnitTest"
+    task :shoulda do
+      Dir['test/*.shoulda.rb'].each do |t|
+        load t
+      end
+    end
+  end
+end

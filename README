@@ -44,4 +44,20 @@ class-self-validation:
   attr_validated: attr_accessor + add a validation block
   not requested (self idea of self-teaching for everyone)
 
+unit_testing:
+  Example Shoulda unit test with a simple dynamical Rakefile
+  requested by @enert0Z
+  From:
+    ISBN: 978-1-93435-608-1
+    Title: Programming Ruby 1.9 (3rd edition): The Pragmatic Programmers' Guide
+           by Dave Thomas, with Chad Fowler and Andy Hunt
+    Chapter: UNIT TESTING
+    URL: http://pragprog.com/titles/ruby3/programming-ruby-1-9
+
+# ## ### #### #
+
+funny:
+  Some funny/amaze code
+  not requested (Just for Fun)
+
 =end
