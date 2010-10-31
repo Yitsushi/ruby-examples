@@ -27,6 +27,10 @@ dynamical-require:
   Require and instance a dyanmical class by name
   requested by @lacyc3
 
+dynamical-autload:
+  Directory based autoload setup
+  requested by @cynosure
+
 config-with-yaml:
   A skeleton class for store (and access/modify) the configuration with yaml
   requested by @cynosure
